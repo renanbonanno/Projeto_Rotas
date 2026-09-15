@@ -1,10 +1,9 @@
 
 const Contato = () => {
   return (
-    <>
-      <h1>Fale com nos</h1>
+
+    <h1>Fale com nos</h1>
     
-    </>
   )
 }
 
